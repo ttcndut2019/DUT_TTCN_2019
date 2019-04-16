@@ -1,4 +1,4 @@
-#!/Users/mac/Documents/WebDemo/PythonWeb/newenv/bin/python3.7
+#!/Users/mac/Documents/GitHub/DUT_TTCN_2019/PythonWeb/newenv/bin/python3.7
 # -*- coding: utf-8 -*-
 import re
 import sys

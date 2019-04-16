@@ -1,4 +1,4 @@
-#!/Users/mac/Documents/WebDemo/PythonWeb/newenv/bin/python
+#!/Users/mac/Documents/GitHub/DUT_TTCN_2019/PythonWeb/newenv/bin/python
 
 import sys
 import getopt

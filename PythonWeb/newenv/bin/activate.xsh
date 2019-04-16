@@ -25,7 +25,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/mac/Documents/WebDemo/PythonWeb/newenv"
+$VIRTUAL_ENV = r"/Users/mac/Documents/GitHub/DUT_TTCN_2019/PythonWeb/newenv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
